@@ -2,7 +2,7 @@
 
 -----------------
 
-A tool for storing logs to database
+A tool for storing logs to database asynchronously
 
 ###Requirment
 
